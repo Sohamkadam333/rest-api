@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "<h1>Complete Rest Api Course files</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sohamkadam333/rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sohamkadam333/rest-api/issues"
+  },
+  "homepage": "https://github.com/Sohamkadam333/rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "scm": "^0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
